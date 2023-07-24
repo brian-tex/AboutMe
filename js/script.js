@@ -1,5 +1,5 @@
 var imageIndex = 1;
-var imageArray = ["images/IMG_6501.png", "images/IMG_6502.png", "images/IMG_6503.png"];
+var imageArray = ["images/IMG_6501.png", "images/IMG_6502.png", "images/IMG_6503.jpeg"];
 
 function changeImage() {
     if (imageIndex >= imageArray.length) {
