@@ -13,5 +13,5 @@ The following list links to documentation I've made for various automation tools
 
 #### Ansible
 - [Overview](TBD)
-- [Ansible Playbooks](https://github.com/myrepo1)
-- [Ansible Roles](https://github.com/myrepo2)
+- [Ansible Playbooks](https://github.com/ansible-playbooks-tex)
+- [Ansible Roles](https://github.com/ansible-roles-tex)
