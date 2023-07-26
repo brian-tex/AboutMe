@@ -20,13 +20,13 @@ This glossary contains common words, services and terms often used in the System
 #### **Playbook**
 - "An Ansible® playbook is a blueprint of automation tasks—which are complex IT actions executed with limited or no human involvement. Ansible playbooks are executed on a set, group, or classification of hosts, which together make up an Ansible inventory.
 - Ansible playbooks are essentially frameworks, which are prewritten code developers can use ad-hoc or as starting template. Ansible playbooks are regularly used to automate IT infrastructure (such as operating systems and Kubernetes platforms), networks, security systems, and developer personas (such as Git and Red Hat CodeReady Studio).
-- Ansible playbooks help IT staff program applications, services, server nodes, or other devices without the manual overhead of creating everything from scratch. And Ansible playbooks—as well as the conditions, variables, and tasks within them—can be saved, shared, or reused indefinitely."[^3]
+- Ansible playbooks help IT staff program applications, services, server nodes, or other devices without the manual overhead of creating everything from scratch. And Ansible playbooks—as well as the conditions, variables, and tasks within them—can be saved, shared, or reused indefinitely."[^1]
 
 #### **Requirements File**
-- "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^4]
+- "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^1]
 
 #### **Roles**
-- "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^5]
+- "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^1]
 
 #### **Task**
 - TBD
