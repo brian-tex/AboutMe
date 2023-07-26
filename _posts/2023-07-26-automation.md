@@ -18,7 +18,7 @@ The following list links to documentation I've made for various automation tools
 - [Ansible Role Examples](https://github.com/ansible-roles-tex){:target="_blank"}
 
 #### Shell Scripts with Cron Jobs
-- [Overview](TBD){:target="_blank"}
+- [Ansible Glossary](2023-07-26-ansible-glossary.md){:target="_blank"}
 - [Shell Script Examples](TBD){:target="_blank"}
 
 #### PowerShell with Task Scheduler
