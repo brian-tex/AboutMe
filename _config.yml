@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Server Infrastructure: "https://google.com"
-    - Automation: "https://github.com/ansible-playbooks-tex"
+    - Automation: "/2023-07-26-automation"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
