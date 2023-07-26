@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Ansible Glossary
-subtitle: #
+subtitle: Common Ansible terms and definitions
 tags: [ansible, glossary, automation]
 comments: true
 ---
-
 This glossary contains common words, services and terms often used in the System Administrator team. It explains them and links to further internal and external documentation either as inline or footnote hyperlinks.
 
 ---
