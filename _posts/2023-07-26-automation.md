@@ -11,6 +11,7 @@ Ansible, Shell Scripts, Cron Jobs, PowerShell, and Task Scheduler are helpful to
 
 The following list links to documentation I've made for various automation tools as well as a few examples of how I've used them in my career.
 
+---
 #### Ansible
 - [Overview](TBD){:target="_blank"}
 - [Ansible Playbook Examples](https://github.com/ansible-playbooks-tex){:target="_blank"}
