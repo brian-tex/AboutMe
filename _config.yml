@@ -22,8 +22,8 @@ author: Brian
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Server Infrastructure: "https://google.com"
+    - Automation: "https://facebook.com"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
