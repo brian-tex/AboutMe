@@ -14,7 +14,7 @@ This glossary contains common words, services and terms often used in the System
 - This allows us to store custom configurations in playbooks so we don’t have to manually modify our default ansible.cfg file every time we run a playbook.
 
 #### **Inventory**
-- TBD
+- An Ansible inventory file consists of server IP or DNS addresses categorized by a group header. When a playbook is run against a group, the tasks will run iteratively against all servers in the group. You could create a group called LinuxServers and then run a playbook against the LinuxServers group.
 
 #### **Module**
 - TBD
@@ -31,10 +31,14 @@ This glossary contains common words, services and terms often used in the System
 - "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^3]
 
 #### **Task**
-- TBD
+- Ansible tasks are specific pieces of code in a playbook or role that ensures a single configuration state. The following are example tasks that might exist in a role that adds System Administrators to a server:
+    - Specific code that adds a user accounts to the server.
+    - Specific code that creates the home folder for the users.
+    - Specific code that gives the users sudo permissions.
 
 #### **Vault** 
-- TBD
+- Ansible vault allows you to store confidential variables in an encrypted file (e.g. user credentials) that can be used in a playbook. Files encrypted using Ansible vault are encrypted using SHA-256 and can be stored in revision control (e.g. GitHub).
+- To use an Ansible vault encrypted file, you need to create a file in ~/.ansible/vault and paste the vault password in it. Then, you’ll need to reference the password file in the playbook’s ansible.cfg file. Ansible will use the provided password file to access the variables of the vaulted file without decrypting it. This keeps the file secure and safe to push back into revision control.
 
 ---
 [^1]: [What is an Ansible playbook, Red Hat Ansible Website](https://www.redhat.com/en/topics/automation/what-is-an-ansible-playbook#:~:text=An%20Ansible%C2%AE%20playbook%20is,make%20up%20an%20Ansible%20inventory.)
