@@ -25,7 +25,7 @@ navbar-links:
     - Automation: "/2023-07-26-automation"
     - Network: "https://google.com"
     - Server Mgmt: "https://google.com"
-    - Virtualization: "https://google.com"
+    - Virtualization: "/2023-07-26-virtualization"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
