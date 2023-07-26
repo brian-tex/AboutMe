@@ -11,13 +11,13 @@ This glossary contains common words, services and terms often used in the System
 - "Ansible is an open source community project sponsored by Red Hat, it's the simplest way to automate IT. Ansible is the only automation language that can be used across entire IT teams from systems and network administrators to developers and managers."[^1]..."Ansible is a radically simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs."[^2]
 - For more information, see the [Ansible Service Catlog Entry](https://confluence.biola.edu/display/ithd/Ansible+-+Service+Catalog+Entry).
 
-### **Ansible ansible.cfg File**
+#### **Ansible ansible.cfg File**
 - TBD
 
-### **Ansible Inventory**
+#### **Ansible Inventory**
 - TBD
 
-### **Ansible Module**
+#### **Ansible Module**
 - TBD
 
 #### **Ansible Playbook**
@@ -34,7 +34,7 @@ This glossary contains common words, services and terms often used in the System
 - "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^5]
 - For more information, see the [Ansible Service Catlog Entry](https://confluence.biola.edu/display/ithd/Ansible+-+Service+Catalog+Entry).
 
-### **Ansible Task**
+#### **Ansible Task**
 - TBD
 
 #### **Ansible Vault** 
