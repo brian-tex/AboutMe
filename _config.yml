@@ -22,9 +22,7 @@ author: Brian
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Automation:
-        url: "/2023-07-26-automation"
-        target: "_blank"
+    - Automation: "/2023-07-26-automation"
     - Config Mgmt: "/2023-07-26-configmgmt"
     - Network: "/2023-07-26-network"
     - Virtualization: "/2023-07-26-virtualization"
