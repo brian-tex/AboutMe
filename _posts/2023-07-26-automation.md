@@ -16,9 +16,11 @@ The following list links to documentation I've made for various automation tools
 - [Overview](TBD){:target="_blank"}
 - [Ansible Playbook Examples](https://github.com/ansible-playbooks-tex){:target="_blank"}
 - [Ansible Role Examples](https://github.com/ansible-roles-tex){:target="_blank"}
+
 #### Shell Scripts
 - [Overview](TBD){:target="_blank"}
 - [Shell Script Examples](TBD){:target="_blank"}
+
 #### PowerShell Scripts
 - [Overview](TBD){:target="_blank"}
 - [PowerShell Script Examples](TBD){:target="_blank"}
