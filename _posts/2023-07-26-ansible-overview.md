@@ -21,4 +21,5 @@ comments: true
 - It is fairly platform agnostic.
 - It is becoming the industry standard for managing and configuring servers and the services that run on them.
 
+---
 [^1]: [OVERVIEW - How Ansible Works](https://www.ansible.com/overview/how-ansible-works?hsLang=en-us)
