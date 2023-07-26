@@ -40,6 +40,7 @@ This glossary contains common words, services and terms often used in the System
 - Ansible vault allows you to store confidential variables in an encrypted file (e.g. user credentials) that can be used in a playbook. Files encrypted using Ansible vault are encrypted using SHA-256 and can be stored in revision control (e.g. GitHub).
 - To use an Ansible vault encrypted file, you need to create a file in ~/.ansible/vault and paste the vault password in it. Then, you’ll need to reference the password file in the playbook’s ansible.cfg file. Ansible will use the provided password file to access the variables of the vaulted file without decrypting it. This keeps the file secure and safe to push back into revision control.
 
+---
 [^1]: [What is an Ansible playbook, Red Hat Ansible Website](https://www.redhat.com/en/topics/automation/what-is-an-ansible-playbook#:~:text=An%20Ansible%C2%AE%20playbook%20is,make%20up%20an%20Ansible%20inventory.)
 [^2]: [Ansible Galaxy User Guide, Red Hat Ansible Website](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
 [^3]: [8 steps to developing an Ansible role in Linux, Red Hat Ansible Website](https://www.redhat.com/sysadmin/developing-ansible-role#:~:text=Ansible%20roles%20allow%20you%20to,share%20them%20with%20other%20people.)
