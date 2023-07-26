@@ -22,4 +22,3 @@ comments: true
 - It is becoming the industry standard for managing and configuring servers and the services that run on them.
 
 [^1]: [OVERVIEW - How Ansible Works](https://www.ansible.com/overview/how-ansible-works?hsLang=en-us)
-[^2]: For more information, see the [Ansible Service Catlog Entry](https://confluence.biola.edu/display/ithd/Ansible+-+Service+Catalog+Entry)
