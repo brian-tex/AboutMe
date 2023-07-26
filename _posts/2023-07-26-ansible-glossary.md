@@ -23,10 +23,10 @@ This glossary contains common words, services and terms often used in the System
 - Ansible playbooks help IT staff program applications, services, server nodes, or other devices without the manual overhead of creating everything from scratch. And Ansible playbooks—as well as the conditions, variables, and tasks within them—can be saved, shared, or reused indefinitely."[^1]
 
 #### **Requirements File**
-- "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^1]
+- "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^2]
 
 #### **Roles**
-- "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^1]
+- "Ansible roles allow you to develop reusable automation components by grouping and encapsulating related automation artifacts, like configuration files, templates, tasks, and handlers. Because roles isolate these components, it's easier to reuse them and share them with other people. You can also make your roles configurable by exposing variables that users can set when calling the role, allowing them to configure their system according to specific requirements."[^3]
 
 #### **Task**
 - TBD
@@ -35,8 +35,6 @@ This glossary contains common words, services and terms often used in the System
 - TBD
 
 ---
-[^1]: [Red Hat Ansible Webpage](https://www.ansible.com/)
-[^2]: [Ansible Overview Webpage](https://www.ansible.com/overview/how-ansible-works?hsLang=en-us)
-[^3]: [What is an Ansible playbook, Red Hat Ansible Website](https://www.redhat.com/en/topics/automation/what-is-an-ansible-playbook#:~:text=An%20Ansible%C2%AE%20playbook%20is,make%20up%20an%20Ansible%20inventory.)
-[^4]: [Ansible Galaxy User Guide, Red Hat Ansible Website](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
-[^5]: [8 steps to developing an Ansible role in Linux, Red Hat Ansible Website](https://www.redhat.com/sysadmin/developing-ansible-role#:~:text=Ansible%20roles%20allow%20you%20to,share%20them%20with%20other%20people.)
+[^1]: [What is an Ansible playbook, Red Hat Ansible Website](https://www.redhat.com/en/topics/automation/what-is-an-ansible-playbook#:~:text=An%20Ansible%C2%AE%20playbook%20is,make%20up%20an%20Ansible%20inventory.)
+[^2]: [Ansible Galaxy User Guide, Red Hat Ansible Website](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html)
+[^3]: [8 steps to developing an Ansible role in Linux, Red Hat Ansible Website](https://www.redhat.com/sysadmin/developing-ansible-role#:~:text=Ansible%20roles%20allow%20you%20to,share%20them%20with%20other%20people.)
