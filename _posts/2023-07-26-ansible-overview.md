@@ -20,8 +20,6 @@ comments: true
 - It uses a push method of deployment instead of a pull method. Meaning, no clients are required on the endpoint computers. It only requires SSH be installed and configured.
 - It is fairly platform agnostic.
 - It is becoming the industry standard for managing and configuring servers and the services that run on them.
----
-[Previous Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/09.%20Network/01.%20Network%20Overview.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/10.%20Ansible/02.%20What%20is%20an%20Inventory%20File.md)
 
 [^1]: [OVERVIEW - How Ansible Works](https://www.ansible.com/overview/how-ansible-works?hsLang=en-us)
 [^2]: For more information, see the [Ansible Service Catlog Entry](https://confluence.biola.edu/display/ithd/Ansible+-+Service+Catalog+Entry)
