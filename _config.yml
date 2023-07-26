@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Automation: "/2023-07-26-automation"
-    - Network: "https://google.com"
-    - Server Mgmt: "https://google.com"
+    - Network: "/2023-07-26-network"
+    - Server Mgmt: "//2023-07-26-servermgmt"
     - Virtualization: "/2023-07-26-virtualization"
   Author's home: "https://aboutme.mandoistheway.com"
 
