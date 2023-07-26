@@ -22,8 +22,8 @@ author: Brian
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Server Infrastructure: "https://google.com"
     - Automation: "/2023-07-26-automation"
+    - Server Infrastructure: "https://google.com"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
