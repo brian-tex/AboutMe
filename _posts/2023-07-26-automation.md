@@ -27,4 +27,4 @@ The following list links to documentation I've made for various automation tools
 
 #### AutoIt
 - [Overview](TBD){:target="_blank"}
-- AutoIt Examples](TBD){:target="_blank"}
+- [AutoIt Examples](TBD){:target="_blank"}
