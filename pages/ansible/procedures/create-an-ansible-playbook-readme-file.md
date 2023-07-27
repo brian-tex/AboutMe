@@ -1,4 +1,12 @@
-# Introduction
+---
+layout: post
+title: Example Ansible Playbook README.md File
+subtitle: #
+tags: [ansible, automation]
+comments: true
+readtime: true
+---
+
 Ths page lists general best practices for creating a README.md file for an Ansible Playbook. This file should,
 - Give a description of the server and how it will be used.
 - Contain a list of Ansible roles the playbook will run on the target server.
