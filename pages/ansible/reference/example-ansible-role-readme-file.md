@@ -8,7 +8,8 @@ readtime: true
 ---
 ```
 # <Role_Name>
-Describe the service this role will configure as well as the purpose it serves. This will help you keep track of the service as a part of your overall service catalog.
+Describe the service this role will configure as well as the purpose it serves.
+This will help you keep track of the service as a part of your overall service catalog.
 
 ### Role Overview
 1. <Name_of_First_Task>
