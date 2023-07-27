@@ -9,7 +9,7 @@ comments: true
 
 ### Why use Ansible over manual configuration?
 - It offers centralized server configuration management.
-- It minimizes the risk of human error when manually configuring a server.
+- It minimizes the risk of human error.
 - It prevents specific manual changes from being lost. When servers are only configured using Ansible, it is impossible to lose server configuration as the current state presently exists and previous changes will exist in revision history.
 - If configuring a server was like building a sandcastle:
   - **Manual Configuration Mgmt. & Deployment:** It’s like drawing a 2D blueprint of a sandcastle and then trying to recreate every nuance from the blueprint by hand.
