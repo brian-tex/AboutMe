@@ -18,12 +18,12 @@ This page lists the steps needed to create an ansible.cfg file for an Ansible Pl
 5. Click `Add file` and select `Create new file`.
 6. Name the new file `ansible.cfg`.
 7. Enter the following in the ansiblge.cfg file:
-```
-[defaults]
-inventory = inventory/inventory
-retry_files_enabled = false
-roles_path = roles
-vault_password_file = ~/.ansible/vault/<server_name>
-ansible_python_interpreter=/usr/bin/python3
-stdout_callback = yaml
-```
+    ```
+    [defaults]
+    inventory = inventory/inventory
+    retry_files_enabled = false
+    roles_path = roles
+    vault_password_file = ~/.ansible/vault/<server_name>
+    ansible_python_interpreter=/usr/bin/python3
+    stdout_callback = yaml
+    ```
