@@ -24,7 +24,9 @@ navbar-links:
   Resources:
     - Automation: "/2023-07-26-automation"
     - Config Mgmt: "/2023-07-26-configmgmt"
+    - DR Recovery: "/2023-07-26-disasterrecovery"
     - Network: "/2023-07-26-network"
+    - Storage: "/2023-07-26-storage"
     - Virtualize: "/2023-07-26-virtualization"
   Author's home: "https://aboutme.mandoistheway.com"
 
