@@ -26,7 +26,7 @@ This glossary contains common words, services and terms often used in the System
 - Ansible playbooks are essentially frameworks, which are prewritten code developers can use ad-hoc or as starting template. Ansible playbooks are regularly used to automate IT infrastructure (such as operating systems and Kubernetes platforms), networks, security systems, and developer personas (such as Git and Red Hat CodeReady Studio).
 - Ansible playbooks help IT staff program applications, services, server nodes, or other devices without the manual overhead of creating everything from scratch. And Ansible playbooks—as well as the conditions, variables, and tasks within them—can be saved, shared, or reused indefinitely."[^1]
 
-#### **Requirements**
+#### **requirements.yml**
 - "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^2]
 
 #### **Roles**
