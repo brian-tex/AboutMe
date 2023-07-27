@@ -18,11 +18,11 @@ This page lists the steps needed to create an default.yml file for an Ansible Pl
 5. Click `Add file` and select `Create new file`.
 6. Name the new file `default.yml`.
 7. Enter the following in the default.yml file:
-    ```
-    - hosts: server_group_name
-    roles:
-      - first_role_name
-      - second_role_name
-      - third_role_name
-    ```
+        ```
+        - hosts: server_group_name
+        roles:
+          - first_role_name
+          - second_role_name
+          - third_role_name
+        ```
 **Note:** Add as many roles as you wish to the `roles:` section above.
