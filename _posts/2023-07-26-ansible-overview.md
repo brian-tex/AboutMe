@@ -16,7 +16,7 @@ comments: true
   - **Ansible Configuration Mgmt. and Deployment:** It’s like having a 3D mold of a sandcastle that can be used to instantly build it (with all its nuance).
 
 ### Why use Ansible over other solutions?
-- It is based on YAML, a more human-readable programming language.
+- It is based on a human-readable programming language called YAML.
 - It uses a push deployment method via SSH. Meaning, there are no applications to install on endpoint computers.
 - It is fairly platform agnostic.
 - It is becoming the industry standard for managing and configuring servers and the services that run on them.
