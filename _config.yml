@@ -21,6 +21,8 @@ author: Brian
 
 navbar-links:
   About Me: "aboutme"
+  Test:
+    - Test 1: "https://google.com"
   Resources:
     - Automation: "/2023-07-26-automation"
     - CI/CD: "/2023-07-26-continuous-integration-and-delivery"
