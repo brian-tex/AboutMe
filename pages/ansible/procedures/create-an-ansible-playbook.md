@@ -1,5 +1,13 @@
-# Introduction
-This page lists the steps needed to create a new Ansible playbook in a GitHub.
+---
+layout: post
+title: Create an Ansible Playbook
+subtitle: #
+tags: [ansible, automation]
+comments: true
+readtime: true
+---
+
+This page lists the steps needed to create an Ansible playbook in a GitHub.
 
 ---
 ### How to Create a New Ansible Playbook
