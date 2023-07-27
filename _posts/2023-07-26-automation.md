@@ -13,7 +13,7 @@ The following list links to documentation I've made for various automation tools
 
 ---
 #### Ansible
-- [What is Ansible](https://aboutme.mandoistheway.com/2023-07-26-what-is-ansible){:target="_blank"}
+- [What is Ansible](https://aboutme.mandoistheway.com/pages/ansible){:target="_blank"}
 - [Ansible Overview](https://aboutme.mandoistheway.com/2023-07-26-ansible-overview){:target="_blank"}
 - [Glossary](https://aboutme.mandoistheway.com/2023-07-26-ansible-glossary){:target="_blank"}
 - [Playbook Examples](https://github.com/ansible-playbooks-tex){:target="_blank"}
