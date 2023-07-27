@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example Ansible Playbook README.md File
-subtitle: #
+title: Example README.md
+subtitle: For an Ansible Playbook
 tags: [ansible, automation]
 comments: true
 readtime: true
