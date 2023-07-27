@@ -25,6 +25,7 @@ navbar-links:
     - Automation: "/2023-07-26-automation"
     - Config Mgmt: "/2023-07-26-configmgmt"
     - DR Recovery: "/2023-07-26-disasterrecovery"
+    - Computer Mgmt: "/2023-07-26-computermanagement""
     - Network: "/2023-07-26-network"
     - Storage: "/2023-07-26-storage"
     - Virtualize: "/2023-07-26-virtualization"
