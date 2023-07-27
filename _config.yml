@@ -33,6 +33,7 @@ navbar-links:
     - Network: "/2023-07-26-network"
     - Storage: "/2023-07-26-storage"
     - Virtualize: "/2023-07-26-virtualization"
+    - Test: "/2023-07-26-testsite"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
