@@ -27,7 +27,7 @@ navbar-links:
     - Automation: "/pages/resources/automation"
     - CI/CD: "/2023-07-26-continuous-integration-and-delivery"
     - Cloud: "/2023-07-26-the-cloud"
-    - Config Mgmt: "/2023-07-26-configmgmt"
+    - Config Mgmt: "/pages/resources/configuration-management"
     - DR Recovery: "/2023-07-26-disaster-recovery"
     - Computer Mgmt: "/2023-07-26-computer-management"
     - Network: "/2023-07-26-network"
