@@ -12,8 +12,8 @@ comments: true
 - It minimizes the risk of human error when manually configuring a server.
 - It prevents specific manual changes from being lost. When servers are only configured using Ansible, it is impossible to lose server configuration as the current state presently exists and previous changes will exist in revision history.
 - If configuring a server was like building a sandcastle:
-  - **Manual Configuration Mgmt. & Deployment:** Like drawing a 2D blueprint of a desired sandcastle and then trying to rebuild every nuance represented in the blueprint by hand with a shovel.
-  - **Ansible Configuration Mgmt. and Deployment:** Like creating a 3D model of the sandcastle. It can be used for reference and then you can fill it with the sand and easily and quickly make the sandcastle (with all its nuance). The model shows you what the configuration and is also used to make the sandcastle.
+  - **Manual Configuration Mgmt. & Deployment:** It’s like drawing a 2D blueprint of a sandcastle and then trying to recreate every nuance from the blueprint by hand.
+  - **Ansible Configuration Mgmt. and Deployment:** It’s like creating a 3D mould of the sandcastle. It can be used for reference and you can fill it with the sand and quickly recreate the sandcastle (with all its nuance). The mould displays the configuration and is also used to make the sandcastle.
 
 ### Why use Ansible over other solutions?
 - It is based on YAML and it’s syntax is accessible to average humans (not an abstract programming language).
