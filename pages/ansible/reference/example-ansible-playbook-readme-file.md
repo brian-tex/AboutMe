@@ -8,7 +8,8 @@ readtime: true
 ---
 ```
 # <Playbook_Name>
-Describe the server this playbook will configure, who it is for and the purpose it serves. This will help you keep track of the server as a part of your overall service catalog.
+Describe the server this playbook will configure, who it is for and the purpose it serves.
+This will help you keep track of the server as a part of your overall service catalog.
 
 ### Playbook Overview
 1. <Name_of_First_Role>
