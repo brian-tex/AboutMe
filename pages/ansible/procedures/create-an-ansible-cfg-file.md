@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Create an ansible.cfg File
-subtitle: #
+title: Create an ansible.cfg
+subtitle: For an Ansible Playbook
 tags: [ansible, automation]
 comments: true
 readtime: true
