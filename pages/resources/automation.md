@@ -15,7 +15,7 @@ The following list links to documentation I've made for various automation tools
 #### Ansible
 - [What is Ansible?](https://aboutme.mandoistheway.com/pages/ansible/ansible){:target="_blank"}
 - [How do I use it?](https://aboutme.mandoistheway.com/pages/ansible/ansible-overview){:target="_blank"}
-- [Ansible Terms & Definitions](https://aboutme.mandoistheway.com/pages/ansible/ansible-glossary){:target="_blank"}
+- [Terms & Definitions](https://aboutme.mandoistheway.com/pages/ansible/ansible-glossary){:target="_blank"}
 - Examples
     - [Playbooks](https://github.com/ansible-playbooks-tex){:target="_blank"}
     - [Roles](https://github.com/ansible-roles-tex){:target="_blank"}
