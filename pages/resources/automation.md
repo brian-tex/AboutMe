@@ -13,21 +13,21 @@ The following list links to documentation I've made for various automation tools
 
 ---
 #### Ansible
-- [What is Ansible?](https://aboutme.mandoistheway.com/pages/ansible/ansible){:target="_blank"}
-- [How do I use it?](https://aboutme.mandoistheway.com/pages/ansible/ansible-overview){:target="_blank"}
-- [Terms & Definitions](https://aboutme.mandoistheway.com/pages/ansible/ansible-glossary){:target="_blank"}
+- [What is Ansible?](https://aboutme.mandoistheway.com/pages/ansible/ansible)
+- [How do I use it?](https://aboutme.mandoistheway.com/pages/ansible/ansible-overview)
+- [Terms & Definitions](https://aboutme.mandoistheway.com/pages/ansible/ansible-glossary)
 - Examples
-    - [Playbooks](https://github.com/ansible-playbooks-tex){:target="_blank"}
-    - [Roles](https://github.com/ansible-roles-tex){:target="_blank"}
+    - [Playbooks](https://github.com/ansible-playbooks-tex)
+    - [Roles](https://github.com/ansible-roles-tex)
 
 #### Shell Scripts with Cron Jobs
-- [Overview](TBD){:target="_blank"}
-- [Shell Script Examples](TBD){:target="_blank"}
+- [Overview](TBD)
+- [Shell Script Examples](TBD)
 
 #### PowerShell with Task Scheduler
 - [Overview](TBD){:target="_blank"}
 - [PowerShell Script Examples](TBD){:target="_blank"}
 
 #### AutoIt
-- [Overview](TBD){:target="_blank"}
-- [AutoIt Examples](TBD){:target="_blank"}
+- [Overview](TBD)
+- [AutoIt Examples](TBD)
