@@ -4,7 +4,7 @@ Ths page lists general best practices for creating a README.md file for an Ansib
 - Contain a list of Ansible roles the playbook will run on the target server.
 
 ---
-### How to Create a README.md File for an Ansible Playbook
+### How to Create an Ansible Playbook README.md File
 1. Sign in to your GitHub account.
 2. Click the organization that contains your playbook.
 3. Click on the playbook you wish to modify.
