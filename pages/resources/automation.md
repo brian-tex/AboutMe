@@ -14,8 +14,8 @@ The following list links to documentation I've made for various automation tools
 ---
 #### Ansible
 - [What is Ansible?](/pages/ansible/what-is-ansible)
-- [How do I use it?](https://sysadmin.texhomelabs.com/pages/ansible/how-to-use-ansible)
-- [Terms & Definitions](https://sysadmin-texhomelabs.com/pages/ansible/ansible-terms-and-definitions)
+- [How do I use it?](/pages/ansible/how-to-use-ansible)
+- [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
 - Examples
     - [Playbooks](https://github.com/ansible-playbooks-tex)
     - [Roles](https://github.com/ansible-roles-tex)
