@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Create an Ansible Playbook .gitignore File
-subtitle: #
+title: Create a .gitignore
+subtitle: For an Ansible Playbook
 tags: [ansible, automation]
 comments: true
 readtime: true
