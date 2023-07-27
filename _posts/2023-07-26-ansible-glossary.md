@@ -18,7 +18,7 @@ This glossary contains common words, services and terms often used in the System
 
 #### **Module**
 - An Ansible module is a small piece of code that performs a specific task, such as managing a package, configuring a service, or interacting with cloud resources. Modules are the building blocks that allow Ansible to automate various actions on target systems, and they can be written in various programming languages, making them versatile and extensible.
-- Although they’re related, Andible modules are seperate from Ansible Tasks. Modules are the actual code built to accomplish a specific step in the automation. Theyre often written in Python and are used to interact with thr target system. Tasks are a collection of one or more modules with parameters designed to reach a desired state.
+- Although they’re related, Andible modules are different from Ansible Tasks. Modules are the actual code built to accomplish a specific step in the automation. Tasks are a collection of one or more modules with parameters designed to reach a desired state.
 
 #### **Playbook**
 - "An Ansible® playbook is a blueprint of automation tasks—which are complex IT actions executed with limited or no human involvement. Ansible playbooks are executed on a set, group, or classification of hosts, which together make up an Ansible inventory.
