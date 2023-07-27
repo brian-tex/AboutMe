@@ -16,8 +16,9 @@ The following list links to documentation I've made for various automation tools
 - [What is Ansible?](https://aboutme.mandoistheway.com/pages/ansible/ansible){:target="_blank"}
 - [How to Use Ansible](https://aboutme.mandoistheway.com/pages/ansible/ansible-overview){:target="_blank"}
 - [Ansible Glossary](https://aboutme.mandoistheway.com/pages/ansible/ansible-glossary){:target="_blank"}
-- [Example Ansible Playbooks](https://github.com/ansible-playbooks-tex){:target="_blank"}
-- [Example Ansible Roles](https://github.com/ansible-roles-tex){:target="_blank"}
+- **Ansible Examples**
+    - [Playbooks](https://github.com/ansible-playbooks-tex){:target="_blank"}
+    - [Roles](https://github.com/ansible-roles-tex){:target="_blank"}
 
 #### Shell Scripts with Cron Jobs
 - [Overview](TBD){:target="_blank"}
