@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ansible Glossary
-subtitle: Common Ansible terms and definitions
+title: Ansible Terms & Definitions
+subtitle: #
 tags: [ansible, glossary, automation]
 comments: true
 readtime: true
