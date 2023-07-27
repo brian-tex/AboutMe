@@ -12,8 +12,6 @@ This page lists the steps needed to create a new Ansible playbook in a GitHub.
 7. Click `Create repository`.
 8. Open your new repository.
 9. Edit the README.md using Ansible Playbook README.md best practices.
-        - file to include a description of the service as well as an overview of what the playbook will do
-        - An overview could look like a numbered list containing the names of each role it will run.
 10. Create a `.gitignore` file.
 11. Create an `ansible.cfg` file.
 12. Create a `default.yml` file.
