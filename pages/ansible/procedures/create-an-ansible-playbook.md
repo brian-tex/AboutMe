@@ -23,7 +23,7 @@ This page lists the steps needed to create an Ansible playbook in a GitHub.
 10. [Create a .gitignore file](/pages/ansible/procedures/create-an-ansible-playbook-gitignore-file).
 11. [Create an ansible.cfg file](/pages/ansible/procedures/create-an-ansible-cfg-file).
 12. [Create a default.yml file](/pages/ansible/procedures/create-default-yml-file).
-13. Create an inventory directory.
+13. [Create an inventory directory](/pages/ansible/procedures/create-an-inventory-directory).
 13. Create a provisioning directory.
 14. Create a roles directory.
 15. If any of the services need specific information about the server they're deploying on to be properly configured, create a `host_vars` directory.
