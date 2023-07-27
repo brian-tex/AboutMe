@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-This page lists the steps needed to create an Ansible playbook in a GitHub.
+This page lists the steps needed to create an Ansible Playbook in a GitHub.
 
 ---
 ### How to Create an Ansible Playbook
