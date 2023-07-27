@@ -25,15 +25,15 @@ navbar-links:
     - Test 1: "https://google.com"
   Resources:
     - Automation: "/pages/resources/automation"
-    - CI/CD: "/2023-07-26-continuous-integration-and-delivery"
-    - Cloud: "/2023-07-26-the-cloud"
+    - CI/CD: "/pages/resources/continuous-integration-and-delivery"
+    - Cloud: "/pages/resources/cloud"
     - Config Mgmt: "/pages/resources/configuration-management"
-    - DR Recovery: "/2023-07-26-disaster-recovery"
-    - Computer Mgmt: "/2023-07-26-computer-management"
-    - Network: "/2023-07-26-network"
-    - Storage: "/2023-07-26-storage"
-    - Virtualize: "/2023-07-26-virtualization"
-    - Test: "/2023-07-26-testsite"
+    - DR Recovery: "/pages/resources/disaster-recovery"
+    - Computer Mgmt: "/pages/resources/computer-management"
+    - Network: "/pages/resources/network"
+    - Storage: "/pages/resources/storage"
+    - Virtualize: "/pages/resources/virtualization"
+    - Test: "/pages/resources/testsite"
   Author's home: "https://aboutme.mandoistheway.com"
 
 ################
