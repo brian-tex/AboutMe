@@ -27,3 +27,4 @@ This page lists the steps needed to create an Ansible playbook in a GitHub.
 13. [Create a provisioning directory](/pages/ansible/procedures/create-a-provisioning-directory).
 14. Create a roles directory.
 15. If any of the services need specific information about the server they're deploying on to be properly configured, create a `host_vars` directory.
+    - If any of these variables should be encrypted, create a vault.yml file in a `group_vars` directory called `vault.yml` and encrypt it.
