@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ansible Overview
-subtitle: Overview of Ansible and how it can be used
+subtitle: Overview of How to Use Ansible
 tags: [ansible, glossary, automation]
 comments: true
 ---
