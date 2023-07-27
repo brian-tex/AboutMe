@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ansible
+title: What is Ansible?
 subtitle: IT Configuration Management Software
 readtime: true
 ---
