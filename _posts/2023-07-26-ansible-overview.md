@@ -10,14 +10,14 @@ comments: true
 ### Why use Ansible over manual configuration?
 - It offers centralized server configuration management.
 - It minimizes the risk of human error.
-- It prevents specific manual changes from being lost. When servers are only configured using Ansible, it is impossible to lose server configuration as the current state presently exists and previous changes will exist in revision history.
+- It preserves configuration change history.
 - If configuring a server was like building a sandcastle:
-  - **Manual Configuration Mgmt. & Deployment:** It’s like drawing a 2D blueprint of a sandcastle and then trying to recreate every nuance from the blueprint by hand.
-  - **Ansible Configuration Mgmt. and Deployment:** It’s like creating a 3D mould of the sandcastle. It can be used for reference and you can fill it with the sand and quickly recreate the sandcastle (with all its nuance). The mould displays the configuration and is also used to make the sandcastle.
+  - **Manual Configuration Mgmt. & Deployment:** It’s like trying to recreate a sandcastle (with every nuance) from a 2D blueprint.
+  - **Ansible Configuration Mgmt. and Deployment:** It’s like having a 3D mold of the sandcastle. It can be used for reference or you can fill it with sand and build it instantly (with all its nuance).
 
 ### Why use Ansible over other solutions?
-- It is based on YAML and it’s syntax is accessible to average humans (not an abstract programming language).
-- It uses a push method of deployment instead of a pull method. Meaning, no clients are required on the endpoint computers. It only requires SSH be installed and configured.
+- It is based on YAML, a more human-readable programming language.
+- It uses a push deployment method via SSH. Meaning, there are no applications to install on endpoint computers.
 - It is fairly platform agnostic.
 - It is becoming the industry standard for managing and configuring servers and the services that run on them.
 
