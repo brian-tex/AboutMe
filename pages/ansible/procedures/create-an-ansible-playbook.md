@@ -13,7 +13,7 @@ This page lists the steps needed to create an Ansible playbook in a GitHub.
 ### How to Create a New Ansible Playbook
 1. Sign into your GitHub account.
 2. Open the GitHub organization that houses your Ansible Playbooks.
-3. Click `Browser organization's repositories`.
+3. Click `Browse organization's repositories`.
 4. Click `New repository`.
 5. Name the repository after server the playbook will configure.
 6. Check the `Add a README file`.
