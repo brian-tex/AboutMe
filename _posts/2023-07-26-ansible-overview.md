@@ -13,7 +13,7 @@ comments: true
 - It preserves configuration change history.
 - If configuring a server was like building a sandcastle:
   - **Manual Configuration Mgmt. & Deployment:** It’s like trying to recreate a sandcastle (with every nuance) from a 2D blueprint.
-  - **Ansible Configuration Mgmt. and Deployment:** It’s like having a 3D mold of the sandcastle. It can be used for reference or you can fill it with sand and build it instantly (with all its nuance).
+  - **Ansible Configuration Mgmt. and Deployment:** It’s like having a 3D mold of a sandcastle that can be used to instantly build it (with all its nuance).
 
 ### Why use Ansible over other solutions?
 - It is based on YAML, a more human-readable programming language.
