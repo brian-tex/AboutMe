@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Ansible?
-subtitle: Explains Ansible and How It's Used
+subtitle: How can I use it in my workplace?
 tags: [ansible, glossary, automation]
 comments: true
 ---
