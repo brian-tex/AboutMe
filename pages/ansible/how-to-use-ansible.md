@@ -5,4 +5,4 @@ subtitle: #
 tags: [ansible, glossary, automation]
 comments: true
 ---
-TBD
+This page will show you how to follow industry best practices for using Ansible.
