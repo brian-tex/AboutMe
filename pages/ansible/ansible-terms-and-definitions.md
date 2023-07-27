@@ -9,7 +9,7 @@ readtime: true
 This glossary contains common words, services and terms often used in the System Administrator team. It explains them and links to further internal and external documentation either as inline or footnote hyperlinks.
 
 ---
-#### **ansible.cfg File**
+#### **ansible.cfg**
 - An ansible.cfg file is a configuration file Ansible uses to define things like what inventory file to use, where vault password files are located, what plugins to use, where we store our roles folder and many other default settings.
 - We place a custom ansible.cfg file in root directory of our playbooks that override Ansible’s default configuration settings. When placed in a playbook, Ansible will use these settings over default settings for that playbook only.
 - This allows us to store custom configurations in playbooks so we don’t have to manually modify our default ansible.cfg file every time we run a playbook.
@@ -26,7 +26,7 @@ This glossary contains common words, services and terms often used in the System
 - Ansible playbooks are essentially frameworks, which are prewritten code developers can use ad-hoc or as starting template. Ansible playbooks are regularly used to automate IT infrastructure (such as operating systems and Kubernetes platforms), networks, security systems, and developer personas (such as Git and Red Hat CodeReady Studio).
 - Ansible playbooks help IT staff program applications, services, server nodes, or other devices without the manual overhead of creating everything from scratch. And Ansible playbooks—as well as the conditions, variables, and tasks within them—can be saved, shared, or reused indefinitely."[^1]
 
-#### **Requirements File**
+#### **Requirements**
 - "You can set up a requirements.yml file to install multiple collections in one command. This file is a YAML file...To install both roles and collections at the same time with one command, run the following: ```ansible-galaxy install -r requirements.yml```[^2]
 
 #### **Roles**
