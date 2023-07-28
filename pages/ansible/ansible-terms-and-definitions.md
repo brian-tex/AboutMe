@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Ansible Terms & Definitions
 subtitle: #
 tags: [ansible, glossary, automation]
