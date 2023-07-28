@@ -26,9 +26,10 @@ navbar-links:
     - CI/CD: "/pages/resources/continuous-integration-and-delivery"
     - Cloud: "/pages/resources/cloud"
     - Config Mgmt: "/pages/resources/configuration-management"
-    - DR Recovery: "/pages/resources/disaster-recovery"
     - Computer Mgmt: "/pages/resources/computer-management"
+    - DR Recovery: "/pages/resources/disaster-recovery"
     - Network: "/pages/resources/network"
+    - Server Mgmt: “/pages/resources/server-management”
     - Storage: "/pages/resources/storage"
     - Virtualize: "/pages/resources/virtualization"
     - Test: "/pages/resources/testsite"
