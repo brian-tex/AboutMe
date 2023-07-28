@@ -18,14 +18,8 @@ Tools like Ansible or scripts can automate one-off repetitive tasks as well as t
     - [Playbooks](https://github.com/ansible-playbooks-tex)
     - [Roles](https://github.com/ansible-roles-tex)
 
-#### Shell Scripts with Cron Jobs
+#### Shell Scripts with Schedulers
 - [What are Shell Scripts?](/pages/shell-scripts/what-are-shell-scripts)
 - [How to Use Them](/pages/shell-scripts/how-to-use-shell-scripts)
 - [Terms & Definitions](/pages/shell-scripts/shell-script-terms-and-definitions)
 - [Shell Script Examples](/pages/shell-scripts/shell-script-examples)
-
-#### PowerShell with Task Scheduler
-- [What are PowerShell Scripts?](/pages/powershell-scripts/what-are-powershell-scripts)
-- [How to Use Them](/pages/powershell-scripts/how-to-use-powershell-scripts)
-- [Terms & Definitions](/pages/powershell-scripts/powershell-script-terms-and-definitions)
-- [PowerShell Script Examples](/pages/powershell-scripts/powershell-script-examples)
