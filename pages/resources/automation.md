@@ -28,7 +28,7 @@ Tools like Ansible or scripts can automate one-off repetitive tasks as well as t
 - [What are PowerShell Scripts?](/pages/powershell-scripts/what-are-powershell-scripts)
 - [How to Use Them](/pages/powershell-scripts/how-to-use-powershell-scripts)
 - [Terms & Definitions](/pages/powershell-scripts/powershell-script-terms-and-definitions)
-- [Shell Script Examples](/pages/powershell-scripts/powershell-script-examples)
+- [PowerShell Script Examples](/pages/powershell-scripts/powershell-script-examples)
 
 #### AutoIt
 - [Overview](TBD)
