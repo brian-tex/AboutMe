@@ -20,7 +20,7 @@ author: Brian
 ###############################################
 
 navbar-links:
-  About Me: "aboutme“
+  About Me: "aboutme"
   Resources:
     - Automation: "/pages/resources/automation"
     - CI/CD: "/pages/resources/continuous-integration-and-delivery"
