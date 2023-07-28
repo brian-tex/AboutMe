@@ -20,7 +20,7 @@ If configuring a server was like building a sandcastle:
 
 ### Why use Ansible over other solutions?
 - It’s based on a human-readable programming language called YAML.
-- It uses a push deployment method via SSH. Meaning, there are no applications to install on endpoint computers.
+- It uses a push deployment method via SSH. Meaning, there are no endpoint applications to install or manage.
 - It’s platform agnostic.
 - It’s becoming the industry standard for managing and configuring servers and the services that run on them.
 
