@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: How to Use Ansible
 subtitle: #
 tags: [ansible, glossary, automation]
