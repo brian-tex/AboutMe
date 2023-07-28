@@ -24,4 +24,4 @@ Tools like Ansible or scripts can automate one-off repetitive tasks as well as t
 - [Terms & Definitions](/pages/shell-scripts/shell-script-terms-and-definitions)
 - Examples
     - [Bash Script Example](/pages/shell-scripts/reference/bash-script-example)
-    - [PowerShell Script Example](/pages/shell-scripts/reference/PowerShell-script-example)
+    - [PowerShell Script Example](/pages/shell-scripts/reference/powershell-script-example)
