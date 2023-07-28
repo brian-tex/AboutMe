@@ -22,7 +22,6 @@ If configuring a server was like building a sandcastle:
 - It’s based on a human-readable programming language called YAML.
 - It uses a push deployment method via SSH. Meaning, there are no endpoint applications to install or manage.
 - It’s platform agnostic.
-- It’s becoming the industry standard for managing and configuring servers and the services that run on them.
 
 ---
 [^1]: [OVERVIEW - How Ansible Works](https://www.ansible.com/overview/how-ansible-works?hsLang=en-us)
