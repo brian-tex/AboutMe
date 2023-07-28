@@ -12,7 +12,7 @@ Tools like Ansible or scripts can automate one-off repetitive tasks as well as t
 ---
 #### Ansible
 - [What is Ansible?](/pages/ansible/what-is-ansible)
-- [How do I use it?](/pages/ansible/how-to-use-ansible)
+- [How to Use It](/pages/ansible/how-to-use-ansible)
 - [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
 - Examples
     - [Playbooks](https://github.com/ansible-playbooks-tex)
