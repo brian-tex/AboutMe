@@ -21,8 +21,6 @@ author: Brian
 
 navbar-links:
   About Me: "aboutme"
-  Test:
-    - Test 1: "https://google.com"
   Resources:
     - Automation: "/pages/resources/automation"
     - CI/CD: "/pages/resources/continuous-integration-and-delivery"
@@ -34,7 +32,7 @@ navbar-links:
     - Storage: "/pages/resources/storage"
     - Virtualize: "/pages/resources/virtualization"
     - Test: "/pages/resources/testsite"
-  Author's home: "https://aboutme.mandoistheway.com"
+  Home: "https://sysadmin-texhomelabs.com"
 
 ################
 # --- Logo --- #
@@ -62,10 +60,10 @@ round-avatar: true
 social-network-links:
   email: "myname@mydomain.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+#  twitter: daattali
+#  patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -91,7 +89,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is a feed to the Tex Homelabs website.
 
 ###########################
 # --- General options --- #
@@ -99,14 +97,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "aboutme.mandoistheway.com"
+url-pretty: "sysadmins.texhomelabs.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
