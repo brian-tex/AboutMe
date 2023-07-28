@@ -22,16 +22,16 @@ author: Brian
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Automation: "/pages/resources/automation"
-    - CI/CD: "/pages/resources/continuous-integration-and-delivery"
-    - Cloud: "/pages/resources/cloud"
-    - Config Mgmt: "/pages/resources/configuration-management"
-    - Computer Mgmt: "/pages/resources/computer-management"
-    - DR Recovery: "/pages/resources/disaster-recovery"
-    - Network: "/pages/resources/network"
-    - Server Mgmt: "/pages/resources/server-management"
-    - Storage: "/pages/resources/storage"
-    - Virtualize: "/pages/resources/virtualization"
+    - Automation: "/resources/automation"
+    - CI/CD: "/resources/continuous-integration-and-delivery"
+    - Cloud: "/resources/cloud"
+    - Config Mgmt: "/resources/configuration-management"
+    - Computer Mgmt: "/resources/computer-management"
+    - DR Recovery: "/resources/disaster-recovery"
+    - Network: "/resources/network"
+    - Server Mgmt: "/resources/server-management"
+    - Storage: "/resources/storage"
+    - Virtualize: "/resources/virtualization"
   Home: "https://sysadmin.texhomelabs.com"
 
 ################
