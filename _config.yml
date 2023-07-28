@@ -20,7 +20,7 @@ author: Brian
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "aboutme“
   Resources:
     - Automation: "/pages/resources/automation"
     - CI/CD: "/pages/resources/continuous-integration-and-delivery"
@@ -29,10 +29,9 @@ navbar-links:
     - Computer Mgmt: "/pages/resources/computer-management"
     - DR Recovery: "/pages/resources/disaster-recovery"
     - Network: "/pages/resources/network"
-    - Server Mgmt: “/pages/resources/server-management”
+    - Server Mgmt: "/pages/resources/server-management"
     - Storage: "/pages/resources/storage"
     - Virtualize: "/pages/resources/virtualization"
-    - Test: "/pages/resources/testsite"
   Home: "https://sysadmin.texhomelabs.com"
 
 ################
