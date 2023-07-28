@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Shell Script Terms & Definitions
-subtitle: #
+title: Terms & Definitions
+subtitle: for Shell Scripts
 tags: [shell, script, glossary, automation]
 comments: true
 readtime: true
