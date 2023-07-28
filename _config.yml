@@ -32,7 +32,7 @@ navbar-links:
     - Storage: "/pages/resources/storage"
     - Virtualize: "/pages/resources/virtualization"
     - Test: "/pages/resources/testsite"
-  Home: "https://sysadmin-texhomelabs.com"
+  Home: "https://sysadmin.texhomelabs.com"
 
 ################
 # --- Logo --- #
