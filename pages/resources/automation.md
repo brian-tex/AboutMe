@@ -19,12 +19,16 @@ Tools like Ansible or scripts can automate one-off repetitive tasks as well as t
     - [Roles](https://github.com/ansible-roles-tex)
 
 #### Shell Scripts with Cron Jobs
-- [Overview](TBD)
-- [Shell Script Examples](TBD)
+- [What are Shell Scripts?](/pages/shell-scripts/what-are-shell-scripts)
+- [How to Use Them](/pages/shell-scripts/how-to-use-shell-scripts)
+- [Terms & Definitions](/pages/shell-scripts/shell-script-terms-and-definitions)
+- [Shell Script Examples](/pages/shell-scripts/shell-script-examples)
 
 #### PowerShell with Task Scheduler
-- [Overview](TBD){:target="_blank"}
-- [PowerShell Script Examples](TBD){:target="_blank"}
+- [What are PowerShell Scripts?](/pages/powershell-scripts/what-are-powershell-scripts)
+- [How to Use Them](/pages/powershell-scripts/how-to-use-powershell-scripts)
+- [Terms & Definitions](/pages/powershell-scripts/powershell-script-terms-and-definitions)
+- [Shell Script Examples](/pages/powershell-scripts/powershell-script-examples)
 
 #### AutoIt
 - [Overview](TBD)
