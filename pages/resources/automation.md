@@ -5,11 +5,9 @@ subtitle: From Ansible to PowerShell
 tags: [automation, ansible, powershell, shell, script, autoit]
 comments: true
 ---
-Tough issues requiring specific understanding and knowledge benefit from human interaction. Meanwhile, automating routine tasks produces consistent outcomes and frees up employees for other work. 
+Many requests requiring specific understanding and knowledge benefit from human interaction. Meanwhile, routine tasks can be automated to free up employees for other work. 
 
-Ansible, Shell Scripts, Cron Jobs, PowerShell, and Task Scheduler are helpful tools. They automate one-time repetitive tasks or manage configuration of a server infrastructure.
-
-The following list links to documentation I've made for various automation tools as well as a few examples of how I've used them in my career.
+Tools like Ansible or scripts can automate one-off repetitive tasks as well as the configuration of an entire server infrastructure.
 
 ---
 #### Ansible
