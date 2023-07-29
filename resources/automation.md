@@ -5,7 +5,7 @@ subtitle: From Ansible to PowerShell
 tags: [automation, ansible, powershell, shell, script, autoit]
 comments: true
 ---
-A lot of SysAdmin tasks require a specific set of knowledge and benefit from human involvment. Routine tasks, however, can often be automated to free up employees for other work. 
+A lot of SysAdmin tasks require a specific set of knowledge and benefit from human involvment. Repetative routine tasks, however, can often be automated to free up employees for other work. 
 
 Tools like Ansible or scripts can automate one-off repetitive tasks as well as the configuration of an entire server infrastructure.
 
