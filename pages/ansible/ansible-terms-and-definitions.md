@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ansible Terms & Definitions
-subtitle: #
+title: Terms & Definitions
+subtitle: for Ansible
 tags: [ansible, glossary, automation]
 comments: true
 readtime: true
