@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shell Scripts
-subtitle: What they are and when you should use them.
+subtitle:What are Shell scripts?
 readtime: true
 ---
 
