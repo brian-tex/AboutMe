@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Use it?
+title: How to Use it
 subtitle: Ansible
 tags: [ansible, glossary, automation]
 comments: true
