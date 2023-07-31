@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shell Scripts
-subtitle:What are Shell scripts?
+subtitle: What are Shell scripts?
 readtime: true
 ---
 
