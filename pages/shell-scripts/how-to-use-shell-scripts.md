@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shell Scripts
-subtitle: How to use Shell scripts.
+title: How to Use It
+subtitle: How to use Shell scripts
 tags: [shell, automation]
 comments: true
 ---
