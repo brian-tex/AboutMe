@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Use it
-subtitle: How to use Ansible.
+subtitle: How to use Ansible
 tags: [ansible, glossary, automation]
 comments: true
 ---
