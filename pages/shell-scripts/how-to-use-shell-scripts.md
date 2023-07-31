@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shell Script
+title: Shell Scripts
 subtitle: How to use Shell scripts.
 tags: [shell, automation]
 comments: true
