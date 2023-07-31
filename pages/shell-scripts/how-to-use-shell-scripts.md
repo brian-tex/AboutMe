@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Use It
+title: How to Use Them
 subtitle: How to use Shell scripts
 tags: [shell, automation]
 comments: true
