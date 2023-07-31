@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Terms & Definitions
 subtitle: for Shell Scripts
 tags: [shell, script, glossary, automation]
