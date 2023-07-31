@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms & Definitions
-subtitle: for Shell Scripts
+subtitle: Shell script terms and definitions
 tags: [shell, script, glossary, automation]
 comments: true
 readtime: true
