@@ -9,4 +9,8 @@ Shell scripts are used to automate command line shell commands on a Linux or Mac
 
 ---
 ### Why use Shell Scripts?
-- TBD
+- Command line automation
+- Scheduled tasks
+- Remote or local execution
+- Reduces human error
+- Automates repetative tasks
