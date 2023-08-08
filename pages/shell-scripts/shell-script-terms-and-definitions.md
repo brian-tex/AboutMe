@@ -24,7 +24,7 @@ This glossary contains common words, services and terms associated with shell sc
 #### **script**
 - TBD
 
-#### *task scheduler**
+#### **task scheduler**
 - TBD
 
 ---
