@@ -10,8 +10,13 @@ Though I could (and may in the future) record some of my own training and tutori
 
 ### Ansible Training Course
 1. [What is an Inventory File?](/pages/ansible/ansible-training/what-is-an-inventory-file)
-2. [What is a Playbook?](/pages/ansible/ansible-training/what-is-a-playbook)
+2. [What is are Playbooks?](/pages/ansible/ansible-training/what-are-playbooks)
 3. [What is an ansible.cfg File?](/pages/ansible/ansible-training/what-is-an-ansible-cfg-file)
 4. [What is Ansible Vault?](/pages/ansible/ansible-training/what-is-ansible-vault)
-5. [What are Ansible Roles?](/pages/ansible/ansible-training/what-are-ansible-roles)
-6. [What are Ansible Tasks?](/pages/ansible/ansible-training/what-are-tasks)
+5. [What are Roles?](/pages/ansible/ansible-training/what-are-roles)
+6. [What are Tasks?](/pages/ansible/ansible-training/what-are-tasks)
+7. [What are Handlers?](/pages/ansible/ansible-training/what-are-handlers)
+8. [What is a requirements.yml File?](/pages/ansible/ansible-training/what-is-a-requirements-file)
+9. [What are Variable Files?](/pages/ansible/ansible-training/what-are-variable-files)
+10. [What are Templates?](/pages/ansible/ansible-training/what-are-templates)
+11. [What is the Files Directory?](/pages/ansible/ansible-training/what-is-the-files-directory)
