@@ -7,5 +7,29 @@ comments: true
 readtime: true
 ---
 ```
-# TBD
+#!/bin/bash
+
+# Define the directory to monitor
+directory="/path/to/directory"
+
+# Set the threshold for disk usage in percentage
+threshold=90
+
+# Get the current disk usage percentage of the specified directory
+current_usage=$(df -h "$directory" | awk 'NR==2 {print $5}' | tr -d '%')
+
+# Check if current usage is above the threshold
+if [ "$current_usage" -gt "$threshold" ]; then
+    # If above threshold, prepare email subject
+    subject="Disk Usage Alert"
+    
+    # Create email message with disk usage information
+    message="Disk usage in $directory is above $threshold%. Current usage: $current_usage%"
+    
+    # Specify the recipient's email address
+    email="admin@example.com"
+    
+    # Send the email notification using the 'mail' command
+    echo "$message" | mail -s "$subject" "$email"
+fi
 ```
