@@ -12,22 +12,22 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-{%- for link in site.navbar-links -%}
-  {%- if link[1] | type == "string" %}
-    <li class="nav-item">
-      <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
-    </li>
-  {%- else -%}
-    <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown{{ forloop.index }}">
-        {%- for childlink in link[1] -%}
-          <a class="dropdown-item" href="{{ childlink[1] | relative_url }}">{{ childlink[0] }}</a>
-        {%- endfor %}
-      </div>
-    </li>
-  {%- endif -%}
-{%- endfor -%}
+      {%- for link in site.navbar-links -%}
+        {%- if link[1] | type == "string" %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+          </li>
+        {%- else -%}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown{{ forloop.index }}">
+              {%- for childlink in link[1] -%}
+                <a class="dropdown-item" href="{{ childlink[1] | relative_url }}">{{ childlink[0] }}</a>
+              {%- endfor %}
+            </div>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
     </ul>
   </div>
 
