@@ -11,5 +11,5 @@ In the following video you'll see what it looks like to make a fairly basic play
 
 These **Roles** are modularized so that they can be created and managed in one place and be used in countless playbooks. We'll go over roles later in this training.
 ### Getting Started with Ansible
-[![Getting Started with Ansible](https://i3.ytimg.com/vi/VANub3AhZpI/maxresdefault.jpg)](https://youtu.be/VANub3AhZpI)[^1]
+[![Getting Started with Ansible](https://i3.ytimg.com/vi/VANub3AhZpI/maxresdefault.jpg)](https://youtu.be/VANub3AhZpI)
 - Click the image above to watch the video.
