@@ -11,4 +11,5 @@ TBD
 
 ---
 ### How to Create a Bash Script on Linux
-1. TBD
+1. Create a bash script file on your server using the shell script file extension (i.e., "yourScript.sh").
+2. TBD
