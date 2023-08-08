@@ -6,6 +6,7 @@ tags: [bash, shell, script, automation]
 comments: true
 readtime: true
 ---
+The following bash script monitors storage capacity usage of a directory and send an email notification when it's over a predefined threshold.
 ```
 #!/bin/bash
 
