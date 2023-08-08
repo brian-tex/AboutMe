@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-TBD
+This page lists the steps needed to create a PowerShell script.
 
 ---
 ### How to Create a PowerShell Script on Windows
