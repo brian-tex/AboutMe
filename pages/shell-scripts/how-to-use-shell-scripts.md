@@ -5,7 +5,7 @@ subtitle: How to use Shell scripts
 tags: [shell, automation]
 comments: true
 ---
-This page will show you how to follow industry best practices for using shell scripts.
+This page will show you how to create and automate the execution of a bash or PowerShell script.
 
 ---
 ### How to Use Shell Scripts
