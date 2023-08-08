@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ansiblr Training
+title: Ansible Training
 subtitle: A curated training course on Ansible
 readtime: true
 ---
