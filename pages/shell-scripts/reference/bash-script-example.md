@@ -8,7 +8,7 @@ readtime: true
 ---
 The following bash script monitors storage capacity usage of a directory and send an email notification when it's over a predefined threshold.
 
-When this type of script is run by a cron job it can automate server metric monitoring.
+When this type of script is run by a cron job, it can automate server metric monitoring.
 ```
 #!/bin/bash
 
