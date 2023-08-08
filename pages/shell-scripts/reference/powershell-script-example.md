@@ -6,6 +6,10 @@ tags: [powershell, shell, script, automation]
 comments: true
 readtime: true
 ---
+The following PowerShell script monitors storage capacity usage of a directory and send an email notification when it's over a predefined threshold.
+
+When this type of script is run by Task Scheduler, it can automate server metric monitoring.
+
 ```
 # Define the directory to monitor
 $directory = "C:\path\to\directory"
