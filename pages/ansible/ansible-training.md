@@ -10,7 +10,7 @@ Though I could (and may in the future) record some of my own training and tutori
 
 ### Ansible Training Course
 1. [What is an Inventory File?](/pages/ansible/ansible-training/what-is-an-inventory-file)
-2. [What is are Playbooks?](/pages/ansible/ansible-training/what-are-playbooks)
+2. [What are Playbooks?](/pages/ansible/ansible-training/what-are-playbooks)
 3. [What is an ansible.cfg File?](/pages/ansible/ansible-training/what-is-an-ansible-cfg-file)
 4. [What is Ansible Vault?](/pages/ansible/ansible-training/what-is-ansible-vault)
 5. [What are Roles?](/pages/ansible/ansible-training/what-are-roles)
