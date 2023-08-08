@@ -9,4 +9,8 @@ This page will show you how to follow industry best practices for using shell sc
 
 ---
 ### How to Use Shell Scripts
+#### Bash
+1. TBD
+
+#### PowerShell
 1. TBD
