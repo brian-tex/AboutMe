@@ -9,7 +9,22 @@ readtime: true
 This glossary contains common words, services and terms associated with shell scripts. It explains them and links to further internal and external documentation either as inline or footnote hyperlinks.
 
 ---
+#### **cron**
+- TBD
+
+#### **cronjob**
+- TBD
+
+#### **bash**
+- TBD
+
+#### **powershell**
+- TBD
+
 #### **script**
+- TBD
+
+#### *task scheduler**
 - TBD
 
 ---
