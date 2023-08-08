@@ -14,5 +14,4 @@ An Ansible inventory file consists of server IP or DNS addresses categorized by 
 **Note:** We don't typically store our main Ansible directory in /etc/ as shown in this video.
 
 ---
-[Previous Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/10.%20Ansible/01.%20Ansible%20Overview.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/10.%20Ansible/03.%20What%20is%20a%20Playbook.md)
 [^1]:[Ansible Inventory Tutorial // Learn how to setup the Ansible Inventory File and change it's location](https://www.youtube.com/watch?v=0MT9WvX_j4Y&ab_channel=RogerPerkin%2F%2FNetworkAutomationConsultant)
