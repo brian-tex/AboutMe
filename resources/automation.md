@@ -13,7 +13,7 @@ Tools like Ansible or shell scripts can automate tasks from one-off requests to 
 #### Ansible
 - [What is Ansible?](/pages/ansible/what-is-ansible)
 - [How to Use It](/pages/ansible/how-to-use-ansible)
-- [Ansible Training](/pages/ansible/training)
+- [Ansible Training](/pages/ansible/ansible-training)
 - [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
 - Examples
     - [Playbooks](https://github.com/ansible-playbooks-tex)
