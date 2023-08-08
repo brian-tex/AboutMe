@@ -18,10 +18,16 @@ This glossary contains common words, services and terms associated with shell sc
 #### **bash**
 - TBD
 
+#### **interpreter**
+- TBD
+
 #### **powershell**
 - TBD
 
 #### **script**
+- TBD
+
+#### **shebang**
 - TBD
 
 #### **task scheduler**
