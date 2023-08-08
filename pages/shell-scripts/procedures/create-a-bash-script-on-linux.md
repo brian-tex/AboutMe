@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-TBD
+This page lists the steps needed to create a bash script.
 
 ---
 ### How to Create a Bash Script on Linux
