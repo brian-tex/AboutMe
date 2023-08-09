@@ -33,8 +33,8 @@ navbar-links:
     - Storage: "/resources/storage"
     - Virtualize: "/resources/virtualization"
   Ansible Training:
-    - Inventory: "/pages/ansible/ansible-training/what-is-an-inventory-file"
-    - Playbooks: "/pages/ansible/ansible-training/what-are-playbooks"
+    - 1. Inventory: "/pages/ansible/ansible-training/what-is-an-inventory-file"
+    - 2. Playbooks: "/pages/ansible/ansible-training/what-are-playbooks"
   Home: "https://sysadmin.texhomelabs.com"
 
 ################
