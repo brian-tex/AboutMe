@@ -35,6 +35,15 @@ navbar-links:
   Ansible Training:
     - 1. Inventory: "/pages/ansible/ansible-training/what-is-an-inventory-file"
     - 2. Playbooks: "/pages/ansible/ansible-training/what-are-playbooks"
+    - 3. ansible.cfg: "/pages/ansible/ansible-training/what-is-an-ansible-cfg-file"
+    - 4. Vault: "/pages/ansible/ansible-training/what-is-ansible-vault"
+    - 5. Roles: "/pages/ansible/ansible-training/what-are-roles"
+    - 6. Tasks: "/pages/ansible/ansible-training/what-are-tasks"
+    - 7. Hanlders: "/pages/ansible/ansible-training/what-are-handlers"
+    - 8. Requirements: "/pages/ansible/ansible-training/what-is-a-requirements-file"
+    - 9. Variables: "/pages/ansible/ansible-training/what-are-variable-files"
+    - 10. Templates: "/pages/ansible/ansible-training/what-are-templates"
+    - 11. Files: "/pages/ansible/ansible-training/what-is-the-files-directory"
   Home: "https://sysadmin.texhomelabs.com"
 
 ################
