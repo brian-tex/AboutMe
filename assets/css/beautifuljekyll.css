@@ -1118,3 +1118,15 @@ pre {
     display: inline-block;
   }
 }
+
+
+/* Left-justify first and second-level dropdown menus */
+.dropdown-menu {
+    text-align: left;
+}
+
+/* Adjust position of second-level dropdowns */
+.dropdown .dropdown-menu {
+    margin-left: 100%;
+    margin-top: -38px; /* This value might need to be adjusted based on your design */
+}
