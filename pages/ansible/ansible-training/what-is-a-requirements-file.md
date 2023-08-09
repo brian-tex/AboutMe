@@ -1,6 +1,6 @@
 ---
 layout: page
-title: requirements.yml
+title: Requirements
 subtitle: What is it?
 readtime: true
 ---
