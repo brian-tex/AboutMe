@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ansible Files Directory
-subtitle: What are they?
+title: Files Directory
+subtitle: What is it?
 readtime: true
 ---
 # TBD
