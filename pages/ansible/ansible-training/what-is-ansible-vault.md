@@ -15,4 +15,4 @@ To use an Ansible vault encrypted file, you need to create a file in ~/.ansible/
 
 From the three examples Roger gives in his video for accessing data in a vaulted file, we use the third option. We will specify the path of the vault password file in your playbook's ansible.cfg file. Ansible will review the ansible.cfg file, when running the playbook, and will use the contents of the specified vault password file as the password to access the file you've vaulted.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BBTadK3cAww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/BBTadK3cAww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></html>
