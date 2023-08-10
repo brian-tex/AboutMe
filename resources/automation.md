@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Automation
 subtitle: From Ansible to PowerShell
 tags: [automation, ansible, powershell, shell, script, autoit]
