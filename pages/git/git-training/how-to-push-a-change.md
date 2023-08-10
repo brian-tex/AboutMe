@@ -4,20 +4,10 @@ title: Push
 subtitle: How to push a change.
 readtime: true
 ---
-# Committing a Change in Git
-Making a commit is a lot like making multiple save points in a hard video game level. If you find you just aren't powerful enough to beat the boss at the end of the level, you can roll back your game to a previous save point where you can buy some extra health potions.
+# Pushing a Change in Git
+Making a push in Git is only done on a local repo on your computer and ensures changes other editors have made aren't overwritten. When you make a push, Git takes the original state of your repo and compares it to what is online, if it matches, Git will push all changes you've made to GitHub or GitLab. If your original state doesn't match the current repo online, it'll let you know you need to merge the changes other editors have made to your local version before pushing.
 
-Similarly, making multiple commits when editing a repo allows you to glance through all the changes you've made and revert back to a previous state of the repo if needed. Good commits give you a granular view of the changes with the commit message of the editor letting you know what they were doing and why they made the change. 
+Note: Pushing commits is only needed for files edited locally.
 
-### How to Commit a Change in a Browser
-1. When you've finished editing your code, make a commit message describing specifically what you did.
-1. Make sure the target branch is Main.
-1. Click Commit changes.
-
-### How to Commit a Change Locally on Your Computer
-1. Save the changes to the file in your text editor and close the file.
-1. Change the active directory to the parent directory of the repo.
-1. Tell Git the files you wish to add to your commit: `git add <filePathOfParentFolderToCommit>`
-1. From Terminal, run the following code and add a commit message describing specifically what you did:
-    - `git commit -am`"`yourCommitMessage`"
-3. Repeat steps 1-4 as many times as you want until you're done working on the code.
+### How to Commit a Change Locally
+- Push your changes to GitHub or GitLab by running the following: `git push`
