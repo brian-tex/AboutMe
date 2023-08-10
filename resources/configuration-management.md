@@ -19,13 +19,32 @@ TBD
 
 #### Docker Compose
 - [What is Docker Compose?](/pages/ansible/what-is-docker-compose)
+- [How to Use It](/pages/ansible/how-to-use-docker-compose)
+- [Ansible Training](/pages/ansible/docker-compose-training)
+- [Terms & Definitions](/pages/ansible/docker-compose-terms-and-definitions)
+- Examples
+    - TBD
 
 #### Git
 - [What is Git?](/pages/ansible/what-is-git)
-- [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
+- [Terms & Definitions](/pages/ansible/git-terms-and-definitions)
+- [How to Use It](/pages/ansible/how-to-use-git)
+- [Ansible Training](/pages/ansible/git-training)
+- Examples
+    - TBD
 
 #### Group Policy Object
-- [What is a GPO?](/pages/ansible/what-is-a-gpo)
+- [What are GPOs?](/pages/ansible/what-are-gpos)
+- [Terms & Definitions](/pages/ansible/gpo-terms-and-definitions)
+- [How to Use It](/pages/ansible/how-to-use-gpos)
+- [Ansible Training](/pages/ansible/gpo-training)
+- Examples
+    - TBD
 
 #### Heml Charts
 - [What are Helm Charts?](/pages/ansible/what-are-helm-charts)
+- [Terms & Definitions](/pages/ansible/helm-chart-terms-and-definitions)
+- [How to Use It](/pages/ansible/how-to-use-helm-charts)
+- [Ansible Training](/pages/ansible/helm-chart-training)
+- Examples
+    - TBD
