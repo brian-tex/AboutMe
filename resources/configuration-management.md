@@ -27,24 +27,24 @@ TBD
 
 #### Git
 - [What is Git?](/pages/git/what-is-git)
-- [Terms & Definitions](/pages/git/git-terms-and-definitions)
 - [How to Use It](/pages/git/how-to-use-git)
-- [Ansible Training](/pages/git/git-training)
+- [Git Training](/pages/git/git-training)
+- [Terms & Definitions](/pages/git/git-terms-and-definitions)
 - Examples
     - TBD
 
 #### Group Policy Object
 - [What are GPOs?](/pages/gpo/what-are-gpos)
+- [How to Use Them](/pages/gpo/how-to-use-gpos)
+- [GPO Training](/pages/gpo/gpo-training)
 - [Terms & Definitions](/pages/gpo/gpo-terms-and-definitions)
-- [How to Use It](/pages/gpo/how-to-use-gpos)
-- [Ansible Training](/pages/gpo/gpo-training)
 - Examples
     - TBD
 
 #### Helm Charts
 - [What are Helm Charts?](/pages/helm/what-are-helm-charts)
-- [Terms & Definitions](/pages/helm/helm-chart-terms-and-definitions)
 - [How to Use It](/pages/helm/how-to-use-helm-charts)
-- [Ansible Training](/pages/helm/helm-chart-training)
+- [Helm Training](/pages/helm/helm-chart-training)
+- [Terms & Definitions](/pages/helm/helm-chart-terms-and-definitions)
 - Examples
     - TBD
