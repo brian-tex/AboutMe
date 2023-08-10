@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title: CI & CD
 subtitle: TBD
-tags: [automation, ansible, powershell, shell, script, autoit]
+tags: [TBD]
 comments: true
 ---
 TBD
