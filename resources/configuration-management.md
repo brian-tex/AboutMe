@@ -18,33 +18,33 @@ TBD
     - [Roles](https://github.com/ansible-roles-tex)
 
 #### Docker Compose
-- [What is Docker Compose?](/pages/ansible/what-is-docker-compose)
-- [How to Use It](/pages/ansible/how-to-use-docker-compose)
-- [Ansible Training](/pages/ansible/docker-compose-training)
-- [Terms & Definitions](/pages/ansible/docker-compose-terms-and-definitions)
+- [What is Docker Compose?](/pages/docker-compose/what-is-docker-compose)
+- [How to Use It](/pages/docker-compose/how-to-use-docker-compose)
+- [Docker Compose Training](/pages/docker-compose/docker-compose-training)
+- [Terms & Definitions](/pages/docker-compose/docker-compose-terms-and-definitions)
 - Examples
     - TBD
 
 #### Git
-- [What is Git?](/pages/ansible/what-is-git)
-- [Terms & Definitions](/pages/ansible/git-terms-and-definitions)
-- [How to Use It](/pages/ansible/how-to-use-git)
-- [Ansible Training](/pages/ansible/git-training)
+- [What is Git?](/pages/git/what-is-git)
+- [Terms & Definitions](/pages/git/git-terms-and-definitions)
+- [How to Use It](/pages/git/how-to-use-git)
+- [Ansible Training](/pages/git/git-training)
 - Examples
     - TBD
 
 #### Group Policy Object
-- [What are GPOs?](/pages/ansible/what-are-gpos)
-- [Terms & Definitions](/pages/ansible/gpo-terms-and-definitions)
-- [How to Use It](/pages/ansible/how-to-use-gpos)
-- [Ansible Training](/pages/ansible/gpo-training)
+- [What are GPOs?](/pages/gpo/what-are-gpos)
+- [Terms & Definitions](/pages/gpo/gpo-terms-and-definitions)
+- [How to Use It](/pages/gpo/how-to-use-gpos)
+- [Ansible Training](/pages/gpo/gpo-training)
 - Examples
     - TBD
 
-#### Heml Charts
-- [What are Helm Charts?](/pages/ansible/what-are-helm-charts)
-- [Terms & Definitions](/pages/ansible/helm-chart-terms-and-definitions)
-- [How to Use It](/pages/ansible/how-to-use-helm-charts)
-- [Ansible Training](/pages/ansible/helm-chart-training)
+#### Helm Charts
+- [What are Helm Charts?](/pages/helm/what-are-helm-charts)
+- [Terms & Definitions](/pages/helm/helm-chart-terms-and-definitions)
+- [How to Use It](/pages/helm/how-to-use-helm-charts)
+- [Ansible Training](/pages/helm/helm-chart-training)
 - Examples
     - TBD
