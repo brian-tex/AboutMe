@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Automation: "/resources/automation"
     - CI/CD: "/resources/continuous-integration-and-delivery"
-    - Cloud: "/resources/cloud"
     - Config Mgmt: "/resources/configuration-management"
     - Computer Mgmt: "/resources/computer-management"
     - DR Recovery: "/resources/disaster-recovery"
