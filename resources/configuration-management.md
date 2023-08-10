@@ -16,3 +16,13 @@ TBD
 - Examples
     - [Playbooks](https://github.com/ansible-playbooks-tex)
     - [Roles](https://github.com/ansible-roles-tex)
+
+#### Docker Compose
+- [What is Docker Compose?](/pages/ansible/what-is-docker-compose)
+
+#### Git
+- [What is Git?](/pages/ansible/what-is-git)
+- [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
+
+#### Heml Charts
+- [What are Helm Charts?](/pages/ansible/what-are-helm-charts)
