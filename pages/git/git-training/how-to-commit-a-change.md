@@ -21,5 +21,3 @@ Similarly, making multiple commits when editing a repo allows you to glance thro
 1. From Terminal, run the following code and add a commit message describing specifically what you did:
     - `git commit -am`"`yourCommitMessage`"
 3. Repeat steps 1-4 as many times as you want until you're done working on the code.
----
-[Previous Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/04.%20GitHub%20&%20GitLab/03.%20How%20to%20Edit%20a%20Repo.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/04.%20GitHub%20&%20GitLab/05.%20How%20to%20Push%20a%20Change.md)
