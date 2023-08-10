@@ -23,5 +23,3 @@ Editing a repository (repo) is fairly straight forward, but there are a few quir
 1. Open the file in your text editor of choice.
 1. Edit the code.
 1. Continue to the next page to see how to save it.
-  ---
-[Previous Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/04.%20GitHub%20&%20GitLab/02.%20How%20to%20Clone%20a%20Repo.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Page](https://github.com/biola/sysadmin-docs/blob/master/sysadmin%20training/04.%20GitHub%20&%20GitLab/04.%20%20How%20to%20Commit%20a%20Change.md)
