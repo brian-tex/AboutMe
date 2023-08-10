@@ -24,5 +24,8 @@ TBD
 - [What is Git?](/pages/ansible/what-is-git)
 - [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
 
+#### Group Policy Object
+- [What is a GPO?](/pages/ansible/what-is-a-gpo)
+
 #### Heml Charts
 - [What are Helm Charts?](/pages/ansible/what-are-helm-charts)
