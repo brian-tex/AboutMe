@@ -30,7 +30,6 @@ navbar-links:
     - Resilience: "/resources/resilience"
     - Server Mgmt: "/resources/server-management"
     - Storage: "/resources/storage"
-    - Virtualize: "/resources/virtualization"
   Ansible Training:
     - 1. Inventory: "/pages/ansible/ansible-training/what-is-an-inventory-file"
     - 2. Playbooks: "/pages/ansible/ansible-training/what-are-playbooks"
