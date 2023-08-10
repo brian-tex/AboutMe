@@ -273,7 +273,7 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
-    text-align: left;
+    text-align: center;
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
