@@ -1,3 +1,4 @@
+---
 layout: page
 title: Terms & Definitions
 subtitle: Git terms and definitions
