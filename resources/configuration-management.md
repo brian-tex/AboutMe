@@ -9,8 +9,10 @@ TBD
 
 ---
 #### Ansible
-- [What is Ansible](/pages/ansible/ansible){:target="_blank"}
-- [Ansible Overview](/pages/ansible/ansible){:target="_blank"}
-- [Glossary](/pages/ansible/ansible-glossary){:target="_blank"}
-- [Playbook Examples](https://github.com/ansible-playbooks-tex){:target="_blank"}
-- [Role Examples](https://github.com/ansible-roles-tex){:target="_blank"}
+- [What is Ansible?](/pages/ansible/what-is-ansible)
+- [How to Use It](/pages/ansible/how-to-use-ansible)
+- [Ansible Training](/pages/ansible/ansible-training)
+- [Terms & Definitions](/pages/ansible/ansible-terms-and-definitions)
+- Examples
+    - [Playbooks](https://github.com/ansible-playbooks-tex)
+    - [Roles](https://github.com/ansible-roles-tex)
