@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Virtualization
 subtitle: From Hypervisors to Virtual Machines
 tags: [proxmox, hyper-v, vcenter, vmware]
