@@ -48,3 +48,11 @@ This glossary contains common words, services and terms often used with Git. It 
 
 ---
 [^1]: [Git Main Webpage](https://git-scm.com/)
+[^2]: [Ignoring in Git: How To Use .gitignore Files, bmc.com](https://www.bmc.com/blogs/gitignore/#:~:text=file(s).-,The%20.,is%20a%20plain%20text%20document.)
+[^3]: [Git Branch, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches#:~:text=Git%20branches%20are%20effectively%20a%20pointer%20to%20a%20snapshot%20of%20your%20changes.&text=Instead%20of%20copying%20files%20from,not%20a%20container%20for%20commits.)
+[^4]: [Git Clone, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.)
+[^5]: [Git Commit, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to.&text=These%20two%20commands%20git%20commit,of%20the%20most%20frequently%20used.)
+[^6]: [Git Fork, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow#:~:text=Forking%20is%20a%20git%20clone,org%2FuserA%2Fopen%2Dproject)
+[^7]: [Git Merge, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+[^8]: [Git Pull, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/syncing/git-pull#:~:text=The%20git%20pull%20command%20is,repository%20to%20match%20that%20content.&text=Once%20the%20content%20is%20downloaded,point%20at%20the%20new%20commit.)
+[^9]: [Git Push, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,repository%20to%20a%20remote%20repo.&text=Remote%20branches%20are%20configured%20using,should%20be%20taken%20when%20pushing.)
