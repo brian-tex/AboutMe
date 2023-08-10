@@ -9,8 +9,8 @@ The requirements.yml file should be placed in the Roles directory of a playbook 
 
 If a playbook requires specific configuration in a role, you should do the following:
 1. Remove the role from the requirements.yml.
-1. Make a duplicate of the role and rename it so it's clear that it belongs to the specific playbook.
-1. Store the custom role in the playbook's revision history.
+2. Make a duplicate of the role and rename it so it's clear that it belongs to the specific playbook.
+3. Store the custom role in the playbook's revision history.
 
 ### Example requirements.yml File
 ![Example Requirements yml](/assets/img/requirements.png)
