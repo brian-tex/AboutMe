@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brian Hinds
-subtitle: About me and my IT background.
+subtitle: More about my background
 ---
 
 <div align="center">
