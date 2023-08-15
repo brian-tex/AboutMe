@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: More about me and my IT background.
+title: Brian Hinds
+subtitle: About me and my IT background.
 ---
 
 <div align="center">
