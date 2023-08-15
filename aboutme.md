@@ -4,6 +4,10 @@ title: About me
 subtitle: More about me and my IT background.
 ---
 
+<div align="center">
+  <img src="/assets/img/Brian's Headshot.jpeg" alt="Brian">
+</div>
+
 In my role as an IT Professional in private Higher Education, I've developed a broad range of experience. As part of a small Systems Administration team, I've managed the IT infrastructure from endpoint computing to around 140 Linux and Windows servers.
 
 When I first joined the Systems Administration team, we inherited a well-functioning infrastructure built on open source solutions. To ensure its continued reliability, I immersed myself in understanding how each component worked.
