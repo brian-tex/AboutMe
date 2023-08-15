@@ -1,8 +1,8 @@
 ---
 layout: page
 title: How to Use It
-subtitle: How to use Docker Compose
-tags: [gps, glossary]
+subtitle: How to use GPOs
+tags: [gpo, glossary]
 comments: true
 ---
 This page will show you how to follow industry best practices for using Windows GPOs.
