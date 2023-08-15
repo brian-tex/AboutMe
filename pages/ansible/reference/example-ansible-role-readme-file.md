@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Example Ansible Role README.md File
 subtitle: #
 tags: [ansible, automation]
