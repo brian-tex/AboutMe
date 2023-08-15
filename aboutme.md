@@ -1,15 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: More about me and my IT background.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+As an IT Professional in private Higher Education I've been able to develop a broader range of experience. As a small Systems Administration team we've managed the IT Infrastructure from Endpoint computing to around 140 Linux and Windows servers.
 
 ### My story
 
