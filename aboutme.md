@@ -5,7 +5,7 @@ subtitle: More about me and my IT background.
 ---
 
 <div align="center">
-  <img src="/assets/img/Brian's Headshot.jpeg" alt="Image Description" width="100" height="100">
+  <img src="/assets/img/Brian's Headshot.jpeg" alt="Image Description" width="100" height="100" style="border-radius: 50%;">
 </div>
 
 In my role as an IT Professional in private Higher Education, I've developed a broad range of experience. As part of a small Systems Administration team, I've managed the IT infrastructure from endpoint computing to around 140 Linux and Windows servers.
