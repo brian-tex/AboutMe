@@ -36,7 +36,7 @@ TBD
 #### Group Policy Object
 - [What are GPOs?](/pages/gpo/what-are-gpos)
 - [How to Use Them](/pages/gpo/how-to-use-gpos)
-- [GPO Training](/pages/gpo/gpo-training)
+- [GPO Training](/pages/gpo/gpo-training/)
 - [Terms & Definitions](/pages/gpo/gpo-terms-and-definitions)
 - Examples
     - TBD
