@@ -23,7 +23,7 @@ TBD
 - [Docker Compose Training](/pages/docker-compose/docker-compose-training)
 - [Terms & Definitions](/pages/docker-compose/docker-compose-terms-and-definitions)
 - Examples
-    - TBD
+    - [Example Docker Compose File](/pages/docker-compose/reference/example-docker-compose)
 
 #### Git
 - [What is Git?](/pages/git/what-is-git)
