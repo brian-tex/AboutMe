@@ -17,5 +17,5 @@ This page will show you how to follow industry best practices for using Docker C
 6. This command will start the Nginx container in detached mode.
 
 #### Other Helpful Commands
-    - You can check the status of the container by running the following command: `docker-compose ps`
-    - To stop the container, you can run the following command: `docker-compose down`
+- You can check the status of the container by running the following command: `docker-compose ps`
+- To stop the container, you can run the following command: `docker-compose down`
