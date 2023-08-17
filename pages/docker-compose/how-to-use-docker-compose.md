@@ -9,10 +9,10 @@ This page will show you how to follow industry best practices for using Docker C
 
 ---
 ### How to Use Docker Compose
-1. Create a new file called docker-compose.yml in a text editor.
+1. Create a new file called `docker-compose.yml` in a text editor.
 2. Create the docker-compose content (you can see [this example docker compose file](/pages/docker-compose/reference/example-docker-compose).
 3. Save the file.
-4. Open a terminal window and navigate to the directory where the docker-compose.yml file is located.
+4. Open a terminal window and navigate to the directory where the `docker-compose.yml` file is located.
 5. Run the following command to deploy the application: `docker-compose up -d`
 6. This command will start your container in detached mode.
 
