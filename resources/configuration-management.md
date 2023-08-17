@@ -5,7 +5,7 @@ subtitle: IT tools for server configuration
 tags: [ansible, gpo, github, gitlab, flux]
 comments: true
 ---
-TBD
+Configuration management (CM) is the process of tracking and controlling changes to IT systems and software. It involves identifying, documenting, and managing the configuration of all IT assets, including hardware, software, and data. CM ensures that IT systems are reliable and consistent, and that changes to these systems are made in a controlled and orderly manner.
 
 ---
 #### Ansible
