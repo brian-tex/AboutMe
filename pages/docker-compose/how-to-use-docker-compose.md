@@ -14,7 +14,7 @@ This page will show you how to follow industry best practices for using Docker C
 3. Save the file.
 4. Open a terminal window and navigate to the directory where the docker-compose.yml file is located.
 5. Run the following command to deploy the application: `docker-compose up -d`
-6. This command will start the Nginx container in detached mode.
+6. This command will start your container in detached mode.
 
 #### Other Helpful Commands
 - You can check the status of the container by running the following command: `docker-compose ps`
