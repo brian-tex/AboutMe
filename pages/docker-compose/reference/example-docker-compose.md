@@ -7,5 +7,14 @@ comments: true
 readtime: true
 ---
 ```
-# TBD
+version: '3.8'
+
+services:
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    volumes:
+      - ./data:/usr/share/nginx/html
+    ports:
+      - 80:80
 ```
