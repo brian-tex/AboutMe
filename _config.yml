@@ -29,7 +29,7 @@ navbar-links:
     - Network: "/resources/network"
     - Resilience: "/resources/resilience"
     - Server Mgmt: "/resources/server-management"
-    - Serv. Del.: "/resources/service-delivery"
+    - Srv. Delivery: "/resources/service-delivery"
     - Storage: "/resources/storage"
   Ansible Training:
     - 1. Inventory: "/pages/ansible/ansible-training/what-is-an-inventory-file"
