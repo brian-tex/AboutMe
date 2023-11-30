@@ -12,9 +12,9 @@ If configuring a server was like building a sandcastle:
 
 ---
 ### Why use Ansible over manual configuration?
-- Centralized server configuration management.
+- Provides a centralized management for configuration.
 - Minimizes the risk of human error.
-- Preserves configuration change history.
+- Keeps a history of configuration changes.
 - Produces consistent and reliable results.
 - Frees up employees for other non-repetative tasks.
 
