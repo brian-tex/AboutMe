@@ -26,6 +26,7 @@ navbar-links:
     - CI/CD: "/resources/continuous-integration-and-delivery"
     - Config Mgmt: "/resources/configuration-management"
     - Computer Mgmt: "/resources/computer-management"
+    - Mon. & Alerting: "/resources/monitoring-and-alerting"
     - Network: "/resources/network"
     - Resilience: "/resources/resilience"
     - Server Mgmt: "/resources/server-management"
