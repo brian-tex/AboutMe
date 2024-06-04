@@ -27,6 +27,7 @@ navbar-links:
     - Config Mgmt: "/resources/configuration-management"
     - Containers: "/resources/containerization"
     - Computer Mgmt: "/resources/computer-management"
+    - GitOps: "/resources/gitops"
     - Mon. & Alerting: "/resources/monitoring-and-alerting"
     - Network: "/resources/network"
     - Resilience: "/resources/resilience"
