@@ -15,12 +15,11 @@ This glossary contains common words, services and terms often used with Git. It 
 #### **Branch**
 * "Branching is a feature available in most modern version control systems. Branching in other VCS's can be an expensive operation in both time and disk space. In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug—no matter how big or how small—you spawn a new branch to encapsulate your changes. This makes it harder for unstable code to get merged into the main code base, and it gives you the chance to clean up your future's history before merging it into the main branch."[^2]
 
-#### **Git**
-* "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."[^3]
-
 #### **Clone**
-* "**git clone** is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository."[^4]
+* "**git clone** is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository."[^3]
 
+#### **Git**
+* "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."[^4]
 
 #### **Commit**
 * "The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to. Prior to the execution of git commit, The git add command is used to promote or 'stage' changes to the project that will be stored in a commit. These two commands git commit and git add are two of the most frequently used."[^5]
@@ -43,9 +42,9 @@ This glossary contains common words, services and terms often used with Git. It 
 ---
 [^1]: [Ignoring in Git: How To Use .gitignore Files, bmc.com]
 [^2]: [Git Branch, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches#:~:text=Git%20branches%20are%20effectively%20a%20pointer%20to%20a%20snapshot%20of%20your%20changes.&text=Instead%20of%20copying%20files%20from,not%20a%20container%20for%20commits.)
-[^3]: [Git Main Webpage](https://git-scm.com/)
+[^3]: [Git Clone, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.)
+[^4]: [Git Main Webpage](https://git-scm.com/)
 (https://www.bmc.com/blogs/gitignore/#:~:text=file(s).-,The%20.,is%20a%20plain%20text%20document.)
-[^4]: [Git Clone, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.)
 [^5]: [Git Commit, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to.&text=These%20two%20commands%20git%20commit,of%20the%20most%20frequently%20used.)
 [^6]: [Git Fork, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow#:~:text=Forking%20is%20a%20git%20clone,org%2FuserA%2Fopen%2Dproject)
 [^7]: [Git Merge, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
