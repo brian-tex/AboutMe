@@ -19,3 +19,11 @@ And the best part? Git gives you the power to turn back time. If a new piece of 
 - [Terms & Definitions](/pages/git/git-terms-and-definitions)
 - Examples
     - [Git](TBD)
+
+#### GitOps
+- [What is GitOps?](/pages/gitops/what-is-gitops)
+- [How to Use It](/pages/gitops/how-to-use-gitops)
+- [GitOps Training](/pages/gitops/gitops-training)
+- [Terms & Definitions](/pages/gitops/gitops-terms-and-definitions)
+- Examples
+    - [GitOps](TBD)
