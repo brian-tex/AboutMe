@@ -32,10 +32,10 @@ Containerization also lets you run multiple apps on the same computer, even if t
     - [Docker Compose](TBD)
  
 #### Kubernetes
-- [What is Kubernetes?](/pages/Kubernetes/what-is-Kubernetes)
-- [How to Use It](/pages/Kubernetes/how-to-use-Kubernetes)
-- [Kubernetes Training](/pages/Kubernetes/Kubernetes-training)
-- [Terms & Definitions](/pages/Kubernetes/Kubernetes-terms-and-definitions)
+- [What is Kubernetes?](/pages/kubernetes/what-is-kubernetes)
+- [How to Use It](/pages/kubernetes/how-to-use-kubernetes)
+- [Kubernetes Training](/pages/kubernetes/kubernetes-training)
+- [Terms & Definitions](/pages/kubernetes/kubernetes-terms-and-definitions)
 - Examples
     - [Manifests](TBD)
     - [Helm](TBD)
