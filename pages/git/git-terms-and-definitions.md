@@ -40,7 +40,7 @@ This glossary contains common words, services and terms often used with Git. It 
 * "The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches. Remote branches are configured using the git remote command. Pushing has the potential to overwrite changes, caution should be taken when pushing. These issues are discussed below."[^9]
 
 ---
-[^1]: [Ignoring in Git: How To Use .gitignore Files, bmc.com]
+[^1]: [Ignoring in Git: How To Use .gitignore Files, bmc.com]()
 [^2]: [Git Branch, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches#:~:text=Git%20branches%20are%20effectively%20a%20pointer%20to%20a%20snapshot%20of%20your%20changes.&text=Instead%20of%20copying%20files%20from,not%20a%20container%20for%20commits.)
 [^3]: [Git Clone, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.)
 [^4]: [Git Commit, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to.&text=These%20two%20commands%20git%20commit,of%20the%20most%20frequently%20used.)
