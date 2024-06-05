@@ -5,7 +5,7 @@ subtitle: From Docker to Kubernetes
 tags: [Docker, Docker Compose, Kubernetes, AKS, RKE]
 comments: true
 ---
-Containerization is like packing your application into a suitcase, along with everything it needs to run properly. This suitcase, or “container”, works the same way no matter where you open it.
+Developing apps using containerization is like packing your application into a suitcase, along with everything it needs to run properly. This suitcase, or “container”, works the same way no matter where you open it.
 
 This makes running an application as easy as opening a suitcase. For example, if you have a newer version of NGINX for another app, the older version inside the container won’t be affected.
 
