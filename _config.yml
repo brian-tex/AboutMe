@@ -25,7 +25,7 @@ navbar-links:
     - Automation: "/resources/automation"
     - CI/CD: "/resources/continuous-integration-and-delivery"
     - Config Mgmt: "/resources/configuration-management"
-    - Containers: "/resources/containerization"
+    - Containers: "/resources/containers"
     - Computer Mgmt: "/resources/computer-management"
     - GitOps: "/resources/gitops"
     - Mon. & Alerting: "/resources/monitoring-and-alerting"
