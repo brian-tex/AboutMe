@@ -21,13 +21,13 @@ This glossary contains common words, services and terms often used with Git. It 
 #### **Commit**
 * "The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to. Prior to the execution of git commit, The git add command is used to promote or 'stage' changes to the project that will be stored in a commit. These two commands git commit and git add are two of the most frequently used."[^4]
 
-#### **Git**
-* "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."[^5]
-
 #### **Fork**
 * "The Forking Workflow is fundamentally different than other popular Git workflows. Instead of using a single server-side repository to act as the “central” codebase, it gives every developer their own server-side repository. This means that each contributor has not one, but two Git repositories: a private local one and a public server-side one. The Forking Workflow is most often seen in public open source projects.
 * The main advantage of the Forking Workflow is that contributions can be integrated without the need for everybody to push to a single central repository. Developers push to their own server-side repositories, and only the project maintainer can push to the official repository. This allows the maintainer to accept commits from any developer without giving them write access to the official codebase.
-* The Forking Workflow typically follows a branching model based on the Gitflow Workflow. This means that complete feature branches will be purposed for merge into the original project maintainer's repository. The result is a distributed workflow that provides a flexible way for large, organic teams (including untrusted third-parties) to collaborate securely. This also makes it an ideal workflow for open source projects."[^6]
+* The Forking Workflow typically follows a branching model based on the Gitflow Workflow. This means that complete feature branches will be purposed for merge into the original project maintainer's repository. The result is a distributed workflow that provides a flexible way for large, organic teams (including untrusted third-parties) to collaborate securely. This also makes it an ideal workflow for open source projects."[^5]
+
+#### **Git**
+* "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."[^6]
 
 #### **Merge**
 * "Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
@@ -44,9 +44,9 @@ This glossary contains common words, services and terms often used with Git. It 
 [^2]: [Git Branch, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches#:~:text=Git%20branches%20are%20effectively%20a%20pointer%20to%20a%20snapshot%20of%20your%20changes.&text=Instead%20of%20copying%20files%20from,not%20a%20container%20for%20commits.)
 [^3]: [Git Clone, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20is%20a%20Git,copy%20of%20the%20target%20repository.)
 [^4]: [Git Commit, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=The%20git%20commit%20command%20captures,you%20explicitly%20ask%20it%20to.&text=These%20two%20commands%20git%20commit,of%20the%20most%20frequently%20used.)
-[^5]: [Git Main Webpage](https://git-scm.com/)
+[^5]: [Git Fork, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow#:~:text=Forking%20is%20a%20git%20clone,org%2FuserA%2Fopen%2Dproject)
+[^6]: [Git Main Webpage](https://git-scm.com/)
 (https://www.bmc.com/blogs/gitignore/#:~:text=file(s).-,The%20.,is%20a%20plain%20text%20document.)
-[^6]: [Git Fork, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow#:~:text=Forking%20is%20a%20git%20clone,org%2FuserA%2Fopen%2Dproject)
 [^7]: [Git Merge, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 [^8]: [Git Pull, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/syncing/git-pull#:~:text=The%20git%20pull%20command%20is,repository%20to%20match%20that%20content.&text=Once%20the%20content%20is%20downloaded,point%20at%20the%20new%20commit.)
 [^9]: [Git Push, Atlassian Bitbucket Webpage](https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,repository%20to%20a%20remote%20repo.&text=Remote%20branches%20are%20configured%20using,should%20be%20taken%20when%20pushing.)
