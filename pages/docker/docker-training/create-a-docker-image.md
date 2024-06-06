@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Creating Docker Images
-subtitle: How do you do it?
+title: Docker Images
+subtitle: How do you create one?
 readtime: true
 ---
 ## Image Creation Using a Dockerfile
