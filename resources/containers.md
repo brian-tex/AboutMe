@@ -7,7 +7,9 @@ comments: true
 ---
 Developing apps using containerization is like packing your application into a suitcase, along with everything it needs to run properly. This suitcase, or “container”, works the same way no matter where you open it.
 
-This makes running an application as easy as opening a suitcase. For example, if you have a newer version of NGINX for another app, the older version inside the container won’t be affected.
+Running an application using containerization is as straightforward as opening a suitcase. Just like how everything you need is packed inside a suitcase, a container holds all the necessary components for your application to run. This means, no matter where you ‘open’ or run your container, it will operate consistently.
+
+To illustrate, consider you’re running multiple applications on your computer. One of these applications requires an older version of NGINX, while another requires a newer version. With containerization, each application operates within its own ‘suitcase’ or container, unaffected by the environment outside. So, the older version of NGINX inside one container won’t be affected by the newer version required by another application. This encapsulation ensures that each application runs in its ideal environment without conflicts.
 
 As a developer, this means you’re not relying on the user to set up their computer perfectly for your app to work. You’re essentially giving them the perfect setup along with your app.
 
