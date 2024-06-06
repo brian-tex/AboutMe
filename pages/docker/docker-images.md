@@ -38,7 +38,7 @@ This page compares public Docker Images to custom made Docker images and the ben
 ## Image Creation Using a Docker Container
 - tbd
 ---
-- For more information, see the [docker glossary](https://github.com/biola/sysadmin-docs/blob/master/services/docker/Reference/Docker%20Glossay.md).
+- For more information, see the [Docker Terms & Definitions](/pages/docker/docker-terms-and-definitions)
 
 #### Helpful Article(s)
 - [How to Fortify Your Docker Containers: A Guide to Advanced Security Practices](https://blog.coderco.io/p/how-to-fortify-your-docker-containers?r=2bjtip&utm_source=tldrwebdev)
