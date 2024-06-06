@@ -21,6 +21,7 @@ Containerization also lets you run multiple apps on the same computer, even if t
 - [How to Use It](/pages/docker/how-to-use-docker)
 - [Docker Training](/pages/docker/docker-training)
 - [Terms & Definitions](/pages/docker/docker-terms-and-definitions)
+- [Docker Images](/pages/docker/docker-images)
 - Examples
     - [Docker Run](TBD)
     - [Roles](TBD)
