@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Creating a Dockerfile
-subtitle: How do you do it?
+title: Dockerfile
+subtitle: How do you create one?
 readtime: true
 ---
 ### How to Create a Dockerfile
