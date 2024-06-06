@@ -41,3 +41,4 @@ WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["<entrypoint_command>", "<entrypoint_argument>"]
 ```
+For more information on how to create a Dockerfile, see [Writing a Dockerfile, docs.docker.com](https://docs.docker.com/guides/docker-concepts/building-images/writing-a-dockerfile/)
