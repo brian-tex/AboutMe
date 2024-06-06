@@ -10,7 +10,7 @@ Though I could (and may in the future) record some of my own training and tutori
 
 ### Docker Training Course
 1. [What are Docker Images?](/pages/docker/what-are-docker-images)
-2. [What are Docker Volumes?](/pages/docker/what-are-docker-volumes)
+2. [What are Docker Volumes?](/pages/docker/what-are-docker-storage)
 3. [What are Docker Networks?](/pages/docker/what-are-docker-networks)
 4. [How to Create a Dockerfile](/pages/docker/docker-training/create-a-dockerfile)
 5. [How to Create a Docker Image](/pages/docker/docker-training/create-a-docker-image)
