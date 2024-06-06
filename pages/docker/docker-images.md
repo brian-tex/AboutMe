@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is it?
-subtitle: What is Docker?
+subtitle: What are Docker Images?
 readtime: true
 ---
 A Docker image is a read-only template that contains the instructions and software components needed to run an application in a container. A container is a running instance of an image that can be isolated and portable. You can create, share, and use Docker images with the Docker platform.
